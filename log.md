@@ -14,6 +14,13 @@
 **Thoughts:** Started #100DaysOfCode :)
 
 
+### Day 2: November 2, 2018
+
+**Today's Progress:** #freeCodeCamp CSS Grid and started to build first Responsive Web Design Project - Tribute Page.
+
+**Thoughts:** Responsive image, html5, css, css media query...
+
+
 
 
 
