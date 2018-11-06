@@ -21,6 +21,27 @@
 **Thoughts:** Responsive image, html5, css, css media query...
 
 
+### Day 3: November 3, 2018
+
+**Today's Progress:** #freeCodeCamp Responsive Web Design Project - Tribute Page finshed.
+
+**Thoughts:** Responsive image, html5, css, css media query...
+
+
+### Day 4: November 4, 2018
+
+**Today's Progress:** Bootstrap 4 tutorials.
+
+**Thoughts:** Code along with a bootstrap 4 tutorials.
+
+
+### Day 5: November 5, 2018
+
+**Today's Progress:** Bootstrap 4 tutorials and #freeCodeCamp.
+
+**Thoughts:** Code along with a bootstrap 4 tutorials.
+
+
 
 
 
