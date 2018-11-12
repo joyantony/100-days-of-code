@@ -42,6 +42,42 @@
 **Thoughts:** Code along with a bootstrap 4 tutorials.
 
 
+### Day 6: November 6, 2018
+
+**Today's Progress:** Working on #freeCodeCamp second Responsive Web Design Project, started to styling html5 responsive form with plain CSS...
+
+**Thoughts:** html5 form design is quite hard with plain css
+
+
+### Day 7: November 7, 2018
+
+**Today's Progress:** Really struggled with plain css with html5 form, hope I can...
+
+**Thoughts:** CSS...
+
+
+### Day 8: November 8, 2018
+
+**Today's Progress:** CSS, CSS and CSS, trying to learn more about media queries, responsive form... 
+
+**Thoughts:** CSS...
+
+
+### Day 9: November 9, 2018
+
+**Today's Progress:** Almost done, row, column, ::after and more with plain CSS 
+
+**Thoughts:** CSS...
+
+
+### Day 1: November 12, 2018
+
+**Today's Progress:** I couldn't make #100DaysOfCode last two days, now back to square one... Day 1: Still at #freeCodeCamp Responsive Web Design Projects - Build a Survey Form, hope I can finish this by tomorrow.
+
+**Thoughts:** Learned about flex box and applied to Survey form, learned flex box rows, columns, alignment, form input styling, form button styling...
+
+
+
 
 
 
