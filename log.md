@@ -77,6 +77,13 @@
 **Thoughts:** Learned about flex box and applied to Survey form, learned flex box rows, columns, alignment, form input styling, form button styling...
 
 
+### Day 2: November 13, 2018
+
+**Today's Progress:** Successfully finished #freeCodeCamp survey form with flex box.
+
+**Thoughts:** Learned flex box, aligment, media query, css.
+
+
 
 
 
